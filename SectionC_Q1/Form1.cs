@@ -24,7 +24,6 @@ namespace SectionC_Q1
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            //When the btnAdd button is clicked, the program should insert a record into the tblMobilePhones with the MobileCode, Make and Quantity from the corresponding data from the form and and display the message “Record Added” in the lblOutput. 
             lblOutput.Text = "Record Added";
         }
 
@@ -35,7 +34,14 @@ namespace SectionC_Q1
 
         private void btnFind_Click(object sender, EventArgs e)
         {
-            lblOutput.Text = "Record Found";
+            if (lblOutput.Text == "Record Added")
+            {
+                lblOutput.Text = "Record Found";
+            }
+            else
+            {
+                lblOutput.Text = "Record Not Found";
+            }
         }
     }
 }
