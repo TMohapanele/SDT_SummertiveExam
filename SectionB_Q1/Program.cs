@@ -6,10 +6,12 @@ namespace SectionB_Q1
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your name: "); // Prompt the user to enter their name
-            string name = Console.ReadLine(); // Read the user's input and store it in the variable 'name'
+            //Program to greet the user by name
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine(); // Read the user's input from the console and store it in the variable 'name'
 
-            Console.Write($"Hello {name}"); // Display a greeting message that includes the user's name using string interpolation
+            Console.WriteLine("Hello " + name); // Display a greeting message that includes the user's name using string interpolation
         }
     }
 }
+

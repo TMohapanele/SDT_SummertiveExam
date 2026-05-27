@@ -12,3 +12,4 @@ C:\Users\Tshire\Downloads\School\Software Engineering\Visual Studio\SDT_Summerti
 C:\Users\Tshire\Downloads\School\Software Engineering\Visual Studio\SDT_SummertiveExam\SectionB_Q1\obj\Debug\net10.0\SectionB_Q1.pdb
 C:\Users\Tshire\Downloads\School\Software Engineering\Visual Studio\SDT_SummertiveExam\SectionB_Q1\obj\Debug\net10.0\SectionB_Q1.genruntimeconfig.cache
 C:\Users\Tshire\Downloads\School\Software Engineering\Visual Studio\SDT_SummertiveExam\SectionB_Q1\obj\Debug\net10.0\ref\SectionB_Q1.dll
+C:\Users\Tshire\Downloads\School\Software Engineering\Visual Studio\SDT_SummertiveExam\SectionB_Q1\obj\Debug\net10.0\SectionB_Q1.sourcelink.json
